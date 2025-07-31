@@ -1,0 +1,22 @@
+{
+  "stories": [
+    {
+      "id": "1",
+      "title": "The Playful Rabbit's Adventure",
+      "description": "A little rabbit who was looking for his friends in the forest and had many adventures.",
+      "audio_url": "audio/rabbit_story.mp3"
+    },
+    {
+      "id": "2",
+      "title": "The Kind Little Elephant",
+      "description": "A small pink elephant who always helped his friends in the jungle and had a big heart.",
+      "audio_url": "audio/elephant_story.mp3"
+    },
+    {
+      "id": "3",
+      "title": "The Magical Singing Bird",
+      "description": "A blue bird that made trees green and flowers bloom with its song.",
+      "audio_url": "audio/bird_song.mp3"
+    }
+  ]
+}
